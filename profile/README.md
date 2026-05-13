@@ -9,5 +9,5 @@ Start now (psst.. you don't even have to create an account to learn) to Climb th
 
 Gamebird is <a href=https://github.com/NDBGamebird/GameBird/>Open Source</a>!
 
-<a href="https://github.com/NDBGamebird/GameBird/blob/main/LICENSE">Copyright © 2026 NotDaBenjamin</a>
+<a href="https://github.com/NDBGamebird/GameBird/blob/main/LICENSE">Copyright © 2026 NotDaBenjamin</a>  
 This project is licensed under the <a href="https://opensource.org/license/mit">MIT License.</a>
