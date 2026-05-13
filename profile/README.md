@@ -1,12 +1,10 @@
-## Hi there 👋
+Gamebird is a free and easy way to learn game techniques and own the leaderboards!
+Gamebird offers techniques for a selection of games, ranging from Splitgate: Arena Reloaded to Gta Online!
 
-<!--
+Start now (psst.. you don't even have to create an account to learn) to Climb the Ranks!
 
-**Here are some ideas to get you started:**
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Gamebird is Open Source!
+
+Copyright © 2026 NotDaBenjamin
+This project is licensed under the MIT License.
