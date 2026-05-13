@@ -5,7 +5,7 @@ Gamebird is a free and easy way to learn game techniques and own the leaderboard
 Gamebird offers techniques for a selection of games, ranging from Splitgate: Arena Reloaded to Gta Online!
 <br>
 Start now (psst.. you don't even have to create an account to learn) to Climb the Ranks!
-
+<br><br>
 
 Gamebird is <a href=https://github.com/NDBGamebird/GameBird/>Open Source</a>!
 
